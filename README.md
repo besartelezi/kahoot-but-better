@@ -11,6 +11,9 @@ So in general, the goal of this assignment is to learn how to work with React, a
 But my personal goal is to fully complete this assignment and add a custom made quiz of my own on a json file.
 In the past I have had some problems fetching data from a json, so I'd like to use this assignment as a learning opportunity for that specifically.
 
+This will require me to work on this in my free time as well, something I am more than willing to do to complete and understand this assignment.
+All for the sake of having a working Quiz application, a fergalicious README, and two custom-made quizes about my two favourite topics, **Anime/Manga and MEMES**.
+
 ## React: Really Extravagant And Cruel Technology
 I personally have not worked with React yet, but I did work with Angular in a prior assignment.
 So I'm a little familiar with frameworks and libraries.
@@ -26,3 +29,12 @@ React will efficiently update and render *juuuuust* the right components with yo
 This will all help you to create interactive UIs.
 
 ### Components
+I have used components in the past with Angular, but I still quite don't understand what components are.
+This offends me on a spiritual level, since my fragile ego cannot accept that I still don't understand something I have already experienced.
+So I will be spending quite some time researching what components are, how they should be used (in React) and why we should use them.
+
+#### What are Components?
+
+#### How do we use Components?
+
+#### Why should we use Components
