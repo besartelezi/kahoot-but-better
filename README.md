@@ -26,6 +26,8 @@ So this means the README will be split into two parts:
   * Some texts about what problems I encountered and how I solved them
   * ...
 
+---
+
 ## React: Really Extravagant And Cruel Technology
 I personally have not worked with React yet, but I did work with Angular in a prior assignment.
 So I'm a little familiar with frameworks and libraries.
@@ -114,3 +116,18 @@ So in short, class components are the classes we all know and love, but in React
 And function components are functions that return HTML.
 We use them in order to build an interactive app in a very clean and fast way.
 
+## Hooks - You're Still Not Experienced Enough Young Student
+Hooks let us use state and other React features, without actually writing a class.
+Just because of that one sentence I can already understand why they're mainly used in Function Components.
+
+Reading through the documentation on Hooks, I decided that it is still a bit too complicated for me now.
+I'll now start working on the assignment itself, and once I hit a wall somewhere where I need to use Hooks, I'll be able to understand and learn it a lot faster.
+
+---
+
+## TO-DO(kily-Dokily Neighbourino) List
+
+- [x] Create a React project
+  - <code>npx create-react-app kahoot-two-electric-boogaloo</code>
+- [x] Do some of your own research, and write it down in the README
+- [x] Read some more documentation: [Like this one!](https://reactjs.org/docs/getting-started.html)
