@@ -34,7 +34,34 @@ This offends me on a spiritual level, since my fragile ego cannot accept that I 
 So I will be spending quite some time researching what components are, how they should be used (in React) and why we should use them.
 
 #### What are Components?
+I'd like to start my explanation by giving a special shout-out to [w3schools](https://www.w3schools.com/react/react_components.asp).
+If nobody else got me, I know w3schools got me!
+
+There it was explained that components are like functions, that return HTML elements.
+Normally, I like to rewrite the text I read into my own words to understand it better.
+But I really like the w3schools explanation, so I will be quoting it into my README without changing anything.
+
+````
+Components are independent and reusable bits of code.
+They serve the same purpose as JavaScript functions, but work in isolation and return HTML.
+
+Components come in two types, Class components and Function components.
+````
+
+So I believe that Components should adhere to the Four Pillars of OOP.
 
 #### How do we use Components?
+A Component's name should **always** start with an upper case letter. <br>
+It must also include the <code>extends React.Component</code> statement.<br>
+Through Inheritance (looking at you OOP) it gives the Component access React.Component's functions.<br>
+The component requires a render() method, this is the method that returns the HTML.<br>
+We can also place Components into Components, and separate the Components into files.<br>
+Separating the Components into files is the recommended way to go.<br>
+We then need to import this Component wherever it is needed.
 
 #### Why should we use Components
+We use Components in React, to create an interface the user can easily interact with.
+That's also probably why the library is called React, because it specializes in React-ing to the user.
+Components make the code more predictable, readable, and easier to debug.
+Also, ya' can't use React without Components!
+I mean you can, you **definitely** can, but you *really, really* shouldn't!
