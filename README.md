@@ -42,6 +42,11 @@ Design simple views **for each state**  in your application. <br>
 React will efficiently update and render *juuuuust* the right components with your data changes. <br>
 This will all help you to create interactive UIs.
 
+I will also follow the React introduction given in the official React documentation: [here!](https://reactjs.org/tutorial/tutorial.html)
+This is something I'd like to do, because I personally learn more by doing something instead of reading something.
+Once I have seen myself just how a React application works, what steps were taken to make everything work and the like, will I really be able to know what steps need to be taken for this assignment.
+
+
 ## Components
 I have used components in the past with Angular, but I still quite don't understand what components are.
 This offends me on a spiritual level, since my fragile ego cannot accept that I still don't understand something I have already experienced.
@@ -116,7 +121,7 @@ So in short, class components are the classes we all know and love, but in React
 And function components are functions that return HTML.
 We use them in order to build an interactive app in a very clean and fast way.
 
-## Hooks - You're Still Not Experienced Enough Young Student
+## Hooks - You're Still Not Experienced Enough Young Student :alien:
 Hooks let us use state and other React features, without actually writing a class.
 Just because of that one sentence I can already understand why they're mainly used in Function Components.
 
@@ -130,6 +135,14 @@ And if that function is an integral part of your code and will be used/called re
 
 Helper functions should also be made in separate JS files, that will be imported to the necessary component and called there.
 
+## Challenge Numero Uno: Writing HTML
+If you'd ever tell me that I would ever have trouble with making HTML appear on my screen, I would call you a fool and a mad-man.
+But alas, you may not have been as foolish or mad as one may have thought.
+
+Because that is the very first goal I have set for me and the very first hurdle I encountered.
+But after a lot of experimenting and some asking around, I was finally able to show a lil' Hello World!
+
+
 ---
 
 ## TO-D(Okily-Dokily Neighbourino) List
@@ -138,7 +151,8 @@ Helper functions should also be made in separate JS files, that will be imported
   - <code>npx create-react-app kahoot-two-electric-boogaloo</code>
 - [x] Do some of your own research, and write it down in the README
 - [x] Read some more documentation: [Like this one!](https://reactjs.org/docs/getting-started.html)
+- [x] Add helpers folder
 - [ ] Play around in React
-  - [ ] Look at the Coaches' README, read how React works according to it.
-  - [ ] Add some layout components (Header, Navigation, Footer, GameWindow, ...)
-- [ ] Add helpers folder
+  - [x] Look at the Coaches' README, read how React works according to it.
+  - [ ] Make some HTML appear!
+- [ ] Add some layout components (Header, Navigation, Footer, GameWindow, ...)
