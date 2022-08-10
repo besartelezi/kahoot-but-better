@@ -123,11 +123,22 @@ Just because of that one sentence I can already understand why they're mainly us
 Reading through the documentation on Hooks, I decided that it is still a bit too complicated for me now.
 I'll now start working on the assignment itself, and once I hit a wall somewhere where I need to use Hooks, I'll be able to understand and learn it a lot faster.
 
+## Helper Functions
+Because I've been reading about components for about +/-3 hours, I completely forgot normal functions were a thing.
+If your Components ever need a function to do something, but not show anything in HTML, you can use a function.
+And if that function is an integral part of your code and will be used/called repeatedly, it becomes a helper.
+
+Helper functions should also be made in separate JS files, that will be imported to the necessary component and called there.
+
 ---
 
-## TO-DO(kily-Dokily Neighbourino) List
+## TO-D(Okily-Dokily Neighbourino) List
 
 - [x] Create a React project
   - <code>npx create-react-app kahoot-two-electric-boogaloo</code>
 - [x] Do some of your own research, and write it down in the README
 - [x] Read some more documentation: [Like this one!](https://reactjs.org/docs/getting-started.html)
+- [ ] Play around in React
+  - [ ] Look at the Coaches' README, read how React works according to it.
+  - [ ] Add some layout components (Header, Navigation, Footer, GameWindow, ...)
+- [ ] Add helpers folder
