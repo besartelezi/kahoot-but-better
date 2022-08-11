@@ -1,10 +1,6 @@
-import React, {Component} from 'react';
-
-function Header(title) {
+function Header() {
     return (
-        <div className={"header"}>
-            <h1>{{title}}</h1>
-        </div>
+        <h1>Hello World!</h1>
     );
 }
 
