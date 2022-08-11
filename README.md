@@ -176,10 +176,31 @@ I'm glad I got a wake-up call like this one to keep me alert and in future assig
   - [x] Create multiple function components
   - [x] Make all the HTML of those functional components appear at the same time
 - Some layout components worth noting = (Header, Navigation, Footer, GameWindow, ...)
-- [ ] Follow the steps on the Coaches' README (help you understand props and states a bit more hopefully)
-- [ ] Show the new header
+- [x] Follow the steps on the Coaches' README (help you understand props and states a bit more hopefully)
+- [x] Show the new header
+- [ ] Show a question of the Quiz on your site
+  - [ ] Perform a successful fetch
+    - [ ] Use a helper function
+    - [ ] Call that helper function in the GameComponent
+  - [ ] Get data from database
+  - [ ] Be able to console log just one question
+  - [ ] Set that question to the GameWindow
+  - [ ] Show that question in the HTML there
+- Once that's done, I'll focus on just making a single quiz/questionnaire appear (maybe)
+
+
+- Pro Gamer Tip given to us by the Coaches:
+  - Now we're trickling down data, but what happens if we need to get that trickled down data back at the top of the food chain again?
+    - Check Redux, that might help ya' out a bit!
+- [ ] Look into REDUX
+  - [ ] [Read this article](https://blog.logrocket.com/redux-isnt-dead/)
+  - [ ] Write down your thoughts about REDUX and anything new you might've learned
 - [ ] Look more into props
   - [ ] Write down in README
 - [ ] Look more into states (not the united ones)
   - [ ] Write down in README
+- Figure out the following and add them to TODO list when necessary:
+  - How to let user pick their own questions, customize quiz
+    - Add buttons that lets users pick their quiz, but they actually generate a URL string that will be used for the fetch.
+
 
