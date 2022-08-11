@@ -142,6 +142,13 @@ But alas, you may not have been as foolish or mad as one may have thought.
 Because that is the very first goal I have set for me and the very first hurdle I encountered.
 But after a lot of experimenting and some asking around, I was finally able to show a lil' Hello World!
 
+## Tic-Tac-T-OH-My-God
+![oh-my-god](images/jojo-oh-my-god.gif)
+
+Because React was a bit more complicated than expected, I decided to do the Tic-Tac-Toe exercise that the official React documentation had given us.
+[Here is the repository for that exercise.](https://github.com/besartelezi/react-tic-tac-toe)
+The exercise helped me out **a lot**!
+If you want to know morea bout my experience and thoughts on that exercise, just visit the repository that I linked above.
 
 ---
 
@@ -152,7 +159,9 @@ But after a lot of experimenting and some asking around, I was finally able to s
 - [x] Do some of your own research, and write it down in the README
 - [x] Read some more documentation: [Like this one!](https://reactjs.org/docs/getting-started.html)
 - [x] Add helpers folder
-- [ ] Play around in React
+- [x] Play around in React
   - [x] Look at the Coaches' README, read how React works according to it.
-  - [ ] Make some HTML appear!
-- [ ] Add some layout components (Header, Navigation, Footer, GameWindow, ...)
+  - [x] Make some HTML appear!
+  - [x] Create multiple function components
+  - [x] Make all the HTML of those functional components appear at the same time
+- Some layout components worth noting = (Header, Navigation, Footer, GameWindow, ...)
