@@ -1,6 +1,9 @@
-function Header() {
+
+function Header(props) {
     return (
-        <h1>Hello World!</h1>
+        <div className={"header"}>
+            <h1>{props.title}</h1>
+        </div>
     );
 }
 

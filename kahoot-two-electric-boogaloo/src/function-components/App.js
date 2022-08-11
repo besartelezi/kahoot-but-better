@@ -5,7 +5,7 @@ import Body from "./Body";
 function App() {
     return(
     <>
-        <Header/>
+        <Header title={"yowww"}/>
         <Body/>
     </>
     )
