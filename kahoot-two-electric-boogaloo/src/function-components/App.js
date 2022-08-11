@@ -1,12 +1,11 @@
 import Header from "./Header";
-import Body from "./Body";
-
+import GameComponent from "./GameComponent";
 
 function App() {
     return(
     <>
-        <Header title={"yowww"} setTitle={"dowwh"}/>
-        <Body/>
+        <Header/>
+        <GameComponent/>
     </>
     )
 }
