@@ -148,7 +148,18 @@ But after a lot of experimenting and some asking around, I was finally able to s
 Because React was a bit more complicated than expected, I decided to do the Tic-Tac-Toe exercise that the official React documentation had given us.
 [Here is the repository for that exercise.](https://github.com/besartelezi/react-tic-tac-toe)
 The exercise helped me out **a lot**!
-If you want to know morea bout my experience and thoughts on that exercise, just visit the repository that I linked above.
+If you want to know more about my experience and thoughts on that exercise, just visit the repository that I linked above.
+
+## The only Sinning I do is mess up my Syntax
+If there was one thing I learned while working in React, is that I need to just look up more often how to exactly write code.
+Finding the right way to write something is a real hassle.
+But it is something that is very darn' tootin' important.
+I'll definitely focus more on just looking up examples of how other people write their code in React and learn from that.
+I've spent a lot of time figuring out bugs and issues, without even thinking of the fact it could've been a syntax error and the logic behind it makes sense.
+I'm glad I got a wake-up call like this one to keep me alert and in future assignments.
+
+## Props: What Do They Know? Do They Know Things?? Let's Find Out!
+
 
 ---
 
@@ -165,3 +176,10 @@ If you want to know morea bout my experience and thoughts on that exercise, just
   - [x] Create multiple function components
   - [x] Make all the HTML of those functional components appear at the same time
 - Some layout components worth noting = (Header, Navigation, Footer, GameWindow, ...)
+- [ ] Follow the steps on the Coaches' README (help you understand props and states a bit more hopefully)
+- [ ] Show the new header
+- [ ] Look more into props
+  - [ ] Write down in README
+- [ ] Look more into states (not the united ones)
+  - [ ] Write down in README
+
