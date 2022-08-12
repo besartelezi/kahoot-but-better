@@ -179,12 +179,12 @@ I'm glad I got a wake-up call like this one to keep me alert and in future assig
 - [x] Follow the steps on the Coaches' README (help you understand props and states a bit more hopefully)
 - [x] Show the new header
 - [ ] Show a question of the Quiz on your site
-  - [ ] Perform a successful fetch
-    - [ ] Use a helper function
-    - [ ] Call that helper function in the GameComponent
-  - [ ] Get data from database
-  - [ ] Be able to console log just one question
-  - [ ] Set that question to the GameWindow
+  - [x] Perform a successful fetch
+    - [x] Use a helper function
+    - [x] Call that helper function in the GameComponent
+  - [x] Get data from database
+  - [x] Be able to console log just one question
+  - [x] Set that question to the GameWindow
   - [ ] Show that question in the HTML there
 - Once that's done, I'll focus on just making a single quiz/questionnaire appear (maybe)
 
