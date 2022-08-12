@@ -1,8 +1,8 @@
-import getQuestions from "../helpers/getQuestions";
-
-const url = "https://opentdb.com/api.php?amount=10";
+import UseGetQuiz from "../helpers/UseGetQuiz";
+const url = "https://opentdb.com/api.php?amount=10&category=31&difficulty=easy&type=multiple";
 
 function GameComponent() {
-    getQuestions(url);
+    UseGetQuiz(url);
 }
+
 export default GameComponent;
